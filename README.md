@@ -1,3 +1,7 @@
+![CybernovaGlitch](https://github.com/user-attachments/assets/9810cd3a-33d2-4a73-afff-8db3eccf3f21)
+
+
+
 # Cybernova
 
 Cybernova is a 2D adventure game built in C with SDL 1.2. Players explore a neon-lit futuristic city seized by an AI uprising, navigating immersive levels filled with puzzles, hazards, and cooperative challenges.
