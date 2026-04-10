@@ -31,6 +31,8 @@ Cybernova is a 2D adventure game built in C with SDL 1.2. Players explore a neon
 This repository currently contains only the project overview and metadata.
 
 To request access to the full Cybernova source code, please reach out via LinkedIn. I am happy to discuss the project and provide access upon request.
+## 🎥 Media
+Game Video: https://drive.google.com/file/d/1KMyVjOlyzcToQ_QF9gGFoggQ_MqhyujK/view
 
 ## 🤝 Team
 
