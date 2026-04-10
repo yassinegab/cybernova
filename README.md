@@ -36,11 +36,7 @@ To request access to the full Cybernova source code, please reach out via Linked
 - Dhia Dinne Djebbi
 - Yassine Gabssi
 
-## 🎥 Media
 
-- Gameplay Video: Watch here
-- Game Trailer: Watch here
-- Game Story: Read here
 
 ## 📌 Notes
 
